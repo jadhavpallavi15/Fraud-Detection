@@ -93,7 +93,7 @@ Every prediction comes with a SHAP waterfall plot showing which features contrib
 
 ## 📷 Screenshots
 
-> Add screenshots of your Streamlit app and SHAP plots here after running the project.
+
 
 ---
 
