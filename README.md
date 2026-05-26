@@ -1,10 +1,10 @@
-# 🔍 Fraud Detection — End-to-End ML Project
+# Fraud Detection — End-to-End ML Project
 
 A production-style machine learning pipeline for detecting financial transaction fraud on a **6.3 million row** real-world dataset, featuring XGBoost, class imbalance handling, SHAP explainability, and a Streamlit web app.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 | | |
 |---|---|
@@ -17,7 +17,7 @@ A production-style machine learning pipeline for detecting financial transaction
 
 ---
 
-## 📊 Results
+##Results
 
 | Metric | Logistic Regression (baseline) | XGBoost (final) |
 |--------|-------------------------------|-----------------|
@@ -30,7 +30,7 @@ A production-style machine learning pipeline for detecting financial transaction
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 fraud-detection/
@@ -43,7 +43,7 @@ fraud-detection/
 
 ---
 
-## 🚀 Getting Started
+##Getting Started
 
 ### 1. Clone the repo
 ```bash
@@ -69,7 +69,7 @@ streamlit run Fraud_detection.py
 
 ---
 
-## 🧠 Key Techniques
+## Key Techniques
 
 ### Handling class imbalance
 Fraud makes up only 0.13% of transactions. Three approaches combined:
@@ -91,13 +91,13 @@ Every prediction comes with a SHAP waterfall plot showing which features contrib
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 
 
 ---
 
-## 📚 Dataset Citation
+## Dataset Citation
 
 Lopez-Rojas, E., Elmir, A., & Axelsson, S. (2016). *PaySim: A financial mobile money simulator for fraud detection*. EMSS 2016.
 
